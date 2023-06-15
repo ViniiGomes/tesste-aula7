@@ -4,3 +4,8 @@
 
 ### Vinícius Gomes
 [comment]: <> (Vinícius Gomes Santos)
+
+
+## Vídeo 01 - primeiro teste de galho
+
+[comment]: <> (esse comentario é totalente para puros estudos)
